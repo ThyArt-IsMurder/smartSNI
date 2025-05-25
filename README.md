@@ -83,7 +83,7 @@ Contributions to this project are welcome. Please fork the repository, make your
 
 ## Credits
 
-Special thanks to [Peyman](https://github.com/Ptechgithub) for auto install script
+Special thanks to [Peyman](https://github.com/Ptechgithub) for auto install script.
 
 ## License
 
